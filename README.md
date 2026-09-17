@@ -346,7 +346,7 @@ Os resultados finais serão registrados na documentação do projeto após a exe
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone github.com/Mrt256/virtual-assistant-dio
 cd cyberguard-ai
 ```
 
