@@ -471,7 +471,7 @@ A documentação detalhada do projeto está disponível na pasta [`docs/`](./doc
 
 ## 📌 Próximos Passos
 
-- [✅] Definir persona definitiva do agente
+- [x] Definir persona definitiva do agente
 - [ ] Construir a base inicial de conhecimento
 - [ ] Selecionar as fontes de referência
 - [ ] Desenvolver o System Prompt
