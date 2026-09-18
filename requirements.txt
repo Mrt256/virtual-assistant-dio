@@ -1,1 +1,1 @@
-Not ready yet
+streamlit>=1.40,<2.0
