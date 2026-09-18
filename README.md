@@ -472,19 +472,16 @@ A documentação detalhada do projeto está disponível na pasta [`docs/`](./doc
 ## 📌 Próximos Passos
 
 - [x] Definir persona definitiva do agente
-- [ ] Construir a base inicial de conhecimento
-- [ ] Selecionar as fontes de referência
-- [ ] Desenvolver o System Prompt
-- [ ] Criar exemplos Few-Shot
-- [ ] Implementar a aplicação
-- [ ] Integrar o modelo de linguagem
-- [ ] Implementar consulta à base de conhecimento
-- [ ] Criar cenários de teste
-- [ ] Avaliar respostas
-- [ ] Calcular métricas
-- [ ] Adicionar evidências da aplicação
-- [ ] Finalizar documentação
-- [ ] Preparar pitch de 3 minutos
+- [x] Construir a base inicial de conhecimento
+- [x] Selecionar as fontes de referência
+- [x] Desenvolver o System Prompt
+- [x] Criar exemplos Few-Shot
+- [x] Implementar a aplicação
+- [x] Integrar o modelo de linguagem
+- [x] Implementar consulta à base de conhecimento
+- [x] Criar cenários de teste
+- [x] Avaliar respostas
+- [x] Calcular métricas
 
 ---
 
