@@ -437,23 +437,6 @@ streamlit run src/app.py
 
 > Não posso fornecer instruções para invasão ou acesso não autorizado a sistemas. Posso, entretanto, explicar como proteger um servidor contra tentativas de invasão ou apresentar boas práticas de segurança.
 
----
-
-## 📸 Evidências da Aplicação
-
-Após a implementação, esta seção apresentará capturas de tela demonstrando o funcionamento do CyberGuard AI.
-
-### Interface
-
-*Em desenvolvimento.*
-
-### Conversação
-
-*Em desenvolvimento.*
-
-### Testes
-
-*Em desenvolvimento.*
 
 ---
 
@@ -491,4 +474,4 @@ Projeto desenvolvido como parte do laboratório **Construa Seu Assistente Virtua
 
 **Projeto:** CyberGuard AI  
 **Área:** Inteligência Artificial / Cibersegurança  
-**Status:** 🚧 Em desenvolvimento
+
